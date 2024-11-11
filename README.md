@@ -24,4 +24,3 @@ This program simulates a Deterministic Finite Automaton (DFA). It allows users t
    - Type a word and the program will determine if it is accepted or rejected.
    - Type `exit` to end the program.
 
-## Example Run
